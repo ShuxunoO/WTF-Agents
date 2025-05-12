@@ -1,3 +1,7 @@
+
+<img src="./assets/Cover_2.png" alt="anaconda_logo" width=100%>
+
+
 # WTF-Agents
 AI Agent Study Notes: About Papers and Hands-On Practice
 Ai智能体学习笔记，关于论文和动手实践
@@ -15,3 +19,10 @@ Ai智能体学习笔记，关于论文和动手实践
 - [ ] Smolagents Series
   - [ ] <span style="color:green">smolagents 介绍</span> ⏳
   - [ ] <span style="color:green">已完成的任务</span> ⏳
+
+
+
+## 基础知识
+
+### conda 环境安装
+
