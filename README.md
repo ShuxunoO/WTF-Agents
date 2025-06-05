@@ -1,5 +1,5 @@
 
-<img src="./assets/Cover_2.png" alt="anaconda_logo" width=100%>
+<img src="./assets/Cover.png" alt="anaconda_logo" width=100%>
 
 
 # WTF-Agents

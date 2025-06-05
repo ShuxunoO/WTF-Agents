@@ -1,10 +1,14 @@
+<div style="text-align: center;">
+  <img src="../../../assets/Cover.png" alt="WTF-Agents cover">
+</div>
+
 # AutoGen 简介：多代理协作框架
 
 AutoGen 是一个由微软开发并开源的框架，旨在帮助开发者构建基于多代理协作的智能应用。通过协调多个 AI 代理以对话的方式共同工作，AutoGen 能够高效地解决从简单交互到复杂任务的各种问题。本教程主要介绍AutoGen的基础使用，以及基于 AutoGen 构建自己的多智能体应用。截止到2025年5月份，AutoGen Github仓库已经拿到了44k⭐！
 
 相关资源：
 - 📝 [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155)
-- 📖 [官方文档](https://microsoft.github.io/autogen/stable//index.html)
+- 📖 [官方文档](https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/index.html)
 -  :octocat:  [官方 GitHub 仓库](https://github.com/microsoft/autogen)
 
 ---
